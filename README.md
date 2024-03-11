@@ -1,1 +1,1 @@
-# CNN_LSTM_for_Coastal_Water_Levels
+# Rapid Prediction of Coastal Water Levels with Deep Neural Networks
